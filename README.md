@@ -1,1 +1,1 @@
-Just a bunch of helpful scritps for various purposes.
+Just a bunch of helpful scripts for various purposes.
